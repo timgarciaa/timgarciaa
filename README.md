@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studied Bachelor of Science in Information Technology at Bulacan State University
 - 💼 &nbsp; Working as a Full Stack Developer at Old.st Labs.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Web Development.
@@ -36,7 +36,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/timgarciaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=timgarciaa&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timgarciaa&theme=buefy&layout=compact" />
 </a>

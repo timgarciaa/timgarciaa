@@ -47,9 +47,8 @@
 
 <p align="center">
 <a href="https://timgarcia.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-timgarcia.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/tim-garcia-954059118/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tim%20Garcia%-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/tim-garcia-954059118/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tim%20Garcia-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:timgarciaa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-timgarciaa@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
-⭐️ From [AVS1508](https://github.com/AVS1508)

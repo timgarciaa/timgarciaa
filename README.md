@@ -37,8 +37,8 @@
 <br/>
 
 <a href="https://github.com/timgarciaa">
-  <img height="170em" width="70em"src="https://github-readme-stats.vercel.app/api?username=timgarciaa&theme=buefy&show_icons=true" />
-  <img height="170em" width="70em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timgarciaa&theme=buefy&layout=compact" />
+  <img height="170em" width="170em"src="https://github-readme-stats.vercel.app/api?username=timgarciaa&theme=buefy&show_icons=true" />
+  <img height="170em" width="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timgarciaa&theme=buefy&layout=compact" />
 </a>
 
 <br/>

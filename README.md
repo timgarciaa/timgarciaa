@@ -4,10 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🤔 &nbsp; Exploring new technologies and developing web and software solutions.
 - 🎓 &nbsp; Studied Bachelor of Science in Information Technology at Bulacan State University
 - 💼 &nbsp; Working as a Full Stack Developer at Old.st Labs.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Web Development.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and devOps.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

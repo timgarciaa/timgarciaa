@@ -6,8 +6,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing web and software solutions.
 - 🎓 &nbsp; Studied Bachelor of Science in Information Technology at Bulacan State University
-- 💼 &nbsp; Working as a Full Stack Developer at Old.st Labs.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and devOps.
+- 💼 &nbsp; Working as a Senior Frontend Developer at Storma.
+- 🌱 &nbsp; Learning more about web development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

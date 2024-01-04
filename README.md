@@ -1,6 +1,5 @@
-<img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-<h2> Hey there! I'm Tim.</h2>
+![github-banner](https://github.com/timgarciaa/timgarciaa/assets/12764266/15b5c81d-6c90-45e2-94b7-d36cb72b2042)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 

@@ -33,6 +33,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
+<br/>
 
 <a href="https://github.com/timgarciaa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timgarciaa&theme=buefy&layout=compact" />

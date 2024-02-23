@@ -18,9 +18,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://timgarcia.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-timgarciaa.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://timgarcia.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-timgarciaa.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
 <!-- <a href="https://www.linkedin.com/in/timgarciaa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tim%20Garcia-blue?style=flat-square&logo=linkedin"></a> -->
 <a href="mailto:timgarciaa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-timgarciaa@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-

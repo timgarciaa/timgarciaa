@@ -1,10 +1,10 @@
+<img width="1400" height="425" alt="GitHub Banner" src="https://github.com/user-attachments/assets/e7742924-829a-4b00-a547-442ed0b9a09e" />
 
-![github-banner](https://github.com/timgarciaa/timgarciaa/assets/12764266/15b5c81d-6c90-45e2-94b7-d36cb72b2042)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing web and software solutions.
-- 🌱 &nbsp; Learning more about web development.
+- 🌱 &nbsp; Learning more about AI development.
 
 <br/>
 <br/>
